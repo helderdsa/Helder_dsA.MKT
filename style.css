@@ -1,0 +1,28 @@
+.ft-perfil{
+    width: 200px;
+    display: block;
+    border:solid rgb(72, 255, 0) 5px;
+    border-radius: 100px;
+
+}
+.botao{
+    background-color: black;
+    border:solid rgb(72, 255, 0) 5px;
+    color: rgb(72, 255, 0);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    display: block;
+    cursor: pointer;
+    border-radius: 100px;
+}
+a:link, a:visited, a:hover{
+    color: rgb(72, 255, 0);
+}
+.texto{
+    color: rgb(72, 255, 0);
+}
+.bodyy{
+    background-color: black;
+}
